@@ -1,0 +1,9 @@
+sources/**/d[a-z]bug[!01].log
+// follows the regexp
+sources/test/dabug0.log
+sources/test2/dbbug1.log
+sources/test3/dcbug01.log
+// out the regexp
+sources/test/d1bug.log
+sources/test2/d2bug.log
+sources/test3/d3bug.log
